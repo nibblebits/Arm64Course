@@ -3,6 +3,7 @@
 /hello
 /labels
 /registers
+/adr
 /kernel_calls
 /jumping
 /compare
@@ -16,7 +17,17 @@
 /subroutines
 /indexed_stack
 
-/examples/c-calls-assembly/c_calls_assembly
-/examples/assembly-calls-c/assembly_calls_c
-/examples/sum-ten/sum_ten
-/examples/make-three/make_three
+/lessons/26-mixing-c-with-assembly-code/c-calls-assembly/c_calls_assembly
+/lessons/26-mixing-c-with-assembly-code/assembly-calls-c/assembly_calls_c
+/lessons/28-passing-more-arguments-and-returning-large-values/sum-ten/sum_ten
+/lessons/28-passing-more-arguments-and-returning-large-values/make-three/make_three
+
+/lessons/34-bitwise-logic-and-masks/bitwise_demo
+/lessons/35-bitwise-masks-assignment/bitwise_assignment_starter
+/lessons/35-bitwise-masks-assignment/bitwise_assignment_solution
+/lessons/36-bitwise-programming-with-crc32/crc32_demo
+/lessons/37-neon-simd-dot-product/neon_dot_product
+/lessons/38-atomic-operations-and-memory-ordering/atomic_counter
+/lessons/39-function-pointers-and-indirect-calls/function_pointer_map
+/lessons/40-position-independent-shared-libraries/pic_demo
+/lessons/40-position-independent-shared-libraries/libbias.so
