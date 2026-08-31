@@ -1,5 +1,8 @@
 # ARM64 Assembly Language Masters Course
 
+Find the video course here with a discount: https://dragonzap.com/course/arm64-assembly-programming-arm-processors-from-the-ground-up?coupon=ARMGITHUBDISCOUNT  and learn ARM today.
+
+
 Runnable source examples for the ARM64 course articles. The standalone
 programs use Linux AArch64 system calls; the mixed C and assembly examples show
 the AAPCS64 interface.
